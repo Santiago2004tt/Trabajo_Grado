@@ -4,6 +4,10 @@ env/
 Lib/
 Scripts/
 
+Imagenes
+cute.png
+Formulas_matematicas
+
 # Python
 __pycache__/
 *.pyc
