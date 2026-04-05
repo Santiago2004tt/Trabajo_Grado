@@ -1,0 +1,12 @@
+# Entornos virtuales
+venv/
+env/
+Lib/
+Scripts/
+
+# Python
+__pycache__/
+*.pyc
+
+# Otros
+*.log
