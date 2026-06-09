@@ -5,11 +5,12 @@ Lib/
 Scripts/
 
 Imagenes/
-cute.png
 Formulas_matematicas
 Generar_Dataset
 Descargar_Imagenes
 Imagenes_prueba/
+prueba_img/
+modelos/
 csv/
 
 # Python
