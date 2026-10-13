@@ -1,0 +1,2 @@
+arquitectura,learning_rate,batch_size,dropout,activacion_salida,test_MAE,test_RMSE,test_R2,test_pred_negativas_n,test_pred_negativas_pct
+128-64,0.0005,32,0.2,linear,0.010428963229060173,0.02091014884298861,0.9472759962081909,679,15.09224272060458
