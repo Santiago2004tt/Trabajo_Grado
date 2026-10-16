@@ -13,9 +13,11 @@ prueba_img/
 modelos/
 csv/
 resultados_optimizacion/
+imagenes_prueba_recodificadas/
 modelo_lpips_exportado/
 graficas_modelo/
 graficas_entrenamiento/
+carpeta_resultados/
 
 # Python
 __pycache__/
